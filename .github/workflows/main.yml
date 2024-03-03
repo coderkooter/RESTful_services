@@ -2,7 +2,7 @@ name: Builb Test and push
 on: [push]
 env:
   IMAGE_NAME: student_service
-  REPO_NAME: restful_services
+  REPO_NAME: cooderkooter
 
 
 jobs:
